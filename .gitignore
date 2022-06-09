@@ -1,0 +1,8 @@
+/UCM_70-30
+BERT+ ResNet_net_CosSimUCM_70-30.pt
+BERT+ ResNet_net_UCM_70-30.pt
+pytorch_model.bin
+ViT.py
+run_BERT.py
+BERT_features.py
+.idea/
